@@ -1,50 +1,17 @@
 # NOTEBOOK
 
-<!-- [About](about.md) -->
-
 [CONTENTS](navigation.md)
 
+[英文观止]()
 
+*   [Chapter 1 and 2](english/note1&amp;2.md)
+*   [Chapter 3 and 4](english/note3&amp;4.md)
+*   [Chapter 5 and 6](english/note5&amp;6.md)
 
-[ENGLISH STUDY]()
+[自然拼读]()
 
-* [Chapter 1 and 2](english/note1&2.md)
-
-
-
-
+[格林法则]()
 
 [gimmick:theme](yeti)
 [gimmick: math]()
 [gimmick:Disqus](zlongust)
-<!-- mathjax config similar to math.stackexchange -->
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-      }
-    });
-</script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax(), i;
-        for(i=0; i < all.length; i += 1) {
-            all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-    });
-</script>
-
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
